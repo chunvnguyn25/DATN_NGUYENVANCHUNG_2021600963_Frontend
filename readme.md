@@ -1,6 +1,6 @@
 # Đồ án tốt nghiệp
 
-Đề tài: Phát triển ứng dụng web đặt đồ ăn cho nhà hàng sử dụng Next.js và .Net Core
+Đề tài: Phát triển ứng dụng web nhà hàng Yaya
 
 ## Tech Stack
 
@@ -19,9 +19,9 @@
 - Quản lý món ăn: Thêm, sửa, xóa, chuyển đổi trạng thái.
 - Biểu đồ phân tích doanh thu.
 - Quản lý tài khoản nhân viên.
-- Realtime trạng thái món ăn.
+- Cập nhập trạng thái món ăn.
 - Khách hàng: đăng ký tài khoản, quét mã QR đặt món ăn.
-- Upload hình ảnh liên quan.
+- Đăng tải hình ảnh liên quan.
 
 ## Demo
 
@@ -48,7 +48,7 @@
 Clone the frontend project
 
 ```bash
-  git clone https://github.com/aleevan2812/DATN-Manage-Restaurant-Frontend
+  git clone https://github.com/chunvnguyn25/DATN_NGUYENVANCHUNG_2021600963_Frontend
   npm install
   npm run dev
 ```
@@ -56,7 +56,7 @@ Clone the frontend project
 Clone the backend project
 
 ```bash
-  git clone https://github.com/aleevan2812/DATN-Manage-Restaurant-Backend
+  git clone https://github.com/chunvnguyn25/DATN_NGUYENVANCHUNG_2021600963
   dotnet run
 ```
 
